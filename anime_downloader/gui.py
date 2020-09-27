@@ -341,7 +341,7 @@ class Window(QtWidgets.QMainWindow):
         color: #BB0000;
         background-color: #000000;
         border-style: double;
-        border-color: #320000;
+        border-color: #BB0000;
         border-radius: 2px;
         padding: 5px;
     }
@@ -352,7 +352,8 @@ class Window(QtWidgets.QMainWindow):
         background-color: #BB0000;
     }
     QLineEdit {
-        background: #000000;
+        background: #000000; 
+        border-color: #BB0000;
         color: #FF0000;
     }
     QLineEdit:hover {
@@ -360,17 +361,20 @@ class Window(QtWidgets.QMainWindow):
     }
     QComboBox {
         color: #FF0000;
-        background: #000000;
+        background: #000000; 
+        border-color: #BB0000;
         border: 1px solid #323C72;
         border-radius: 3px;
         padding: 4px 5px;
     }
     QComboBox:hover {
-        background-color: #650000;
+        background-color: #650000; 
+        border-color: #BB0000;
     }
     QProgressBar {
         text-align: center;
-        color: black;
+        color: black; 
+        border-color: #BB0000;
         border: 2px solid #650000;
         border-radius: 3px;
         background: #000000;
