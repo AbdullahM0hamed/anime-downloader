@@ -334,8 +334,8 @@ class Window(QtWidgets.QMainWindow):
     QAbstractItemView,
     QTabBar::tab
     {
-        color: #1a2035;
-        background: #1a2035;
+        color: #FF0000;
+        background: #000000;
     }
     QPushButton {
         color: #BB0000;
@@ -373,10 +373,10 @@ class Window(QtWidgets.QMainWindow):
         color: black;
         border: 2px solid #650000;
         border-radius: 3px;
-        background: #5A0000;
+        background: #000000;
     }
     QProgressBar::chunk {
-        background-color: #880000;
+        background-color: #000000;
         width: 20px;
     }
     */
