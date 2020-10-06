@@ -29,6 +29,7 @@ ALL_ANIME_SITES = [
     ('kickass', 'kickass', 'KickAss'),
     ('kissanimex', 'kissanimex', 'KissAnimeX'),
     ('kisscartoon', 'kisscartoon', 'KissCartoon'),
+    ('meusanime', 'meusanime', 'MeusAnime'),
     ('nyaa', 'nyaa', 'Nyaa'),
     ('ryuanime', 'ryuanime', 'RyuAnime'),
     ('twistmoe', 'twist.moe', 'TwistMoe'),
