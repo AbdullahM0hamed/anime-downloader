@@ -55,7 +55,6 @@ Yeah. Me too! That's why this tool exists.
 **Details about the sites can be found in [FAQ](https://github.com/vn-ki/anime-downloader/wiki/FAQ)**
 
 - 4Anime
-- a2zanime
 - AnimeBinge
 - Animedaisuki
 - Animeflix
@@ -74,6 +73,7 @@ Yeah. Me too! That's why this tool exists.
 - Darkanime
 - Dbanimes 
 - EraiRaws
+- EgyAnime - usually m3u8 (good for streaming, not so much for downloading)
 - FastAni
 - GurminderBoparai (AnimeChameleon)
 - itsaturday
@@ -85,6 +85,7 @@ Yeah. Me too! That's why this tool exists.
 - Nyaa.si
 - PutLockers
 - RyuAnime
+- Shiro.is
 - SubsPlease
 - twist.moe - requires Node.js
 - tenshi.moe
